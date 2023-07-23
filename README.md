@@ -13,23 +13,13 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Active Directiory Home Lab</b>
+- <b>Microsoft Windows Defender and Firewall</b>
   - [Praciting DS & Algos in Python]([https://github.com/joshmadakor1/Algorithms-Practice](https://www.youtube.com/watch?v=MHsI8hJmggI))
 
 
 <h2>📝 Certifications</h2>
 
 - [Google Cybersecurity Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/MZJSKFN76V2V)
-
-
-<h2> 🤳 Connect with me:</h2>
-
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[linkedin]: https://www.linkedin.com/in/daniel-torres-closer/
-
-
--
 
 
 <p align="left">
